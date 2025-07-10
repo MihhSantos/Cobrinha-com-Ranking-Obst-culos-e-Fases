@@ -45,15 +45,23 @@ Quanto mais pontos, maior a velocidade e mais difícil o jogo.
 📁 Estrutura do Projeto
 
 📂 cobrinha/
+
 ├── apple.png             # imagem da maçã
+
 ├── gold_apple.png        # imagem da maçã dourada
+
 ├── cobra.jpg             # imagem da cabeça da cobra
+
 ├── cobra_corpo.png       # imagem do corpo da cobra
+
 ├── ranking.txt           # pontuações salvas
+
 ├── cobrinha.py           # código principal do jogo
+
 └── README.md             # este arquivo
 
 ▶️ Como Rodar
+
 Instale o Pygame:
 pip install pygame
 
@@ -61,5 +69,7 @@ Execute o jogo:
 python cobrinha.py
 
 🖼️ Pré-requisitos
+
 Python 3.7+
+
 Biblioteca pygame
