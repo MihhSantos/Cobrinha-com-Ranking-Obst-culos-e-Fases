@@ -1,4 +1,5 @@
 🐍 Cobrinha com Ranking, Obstáculos e Fases
+
 Um jogo clássico da Cobrinha (Snake Game) recriado com Python e Pygame, com melhorias como:
 
 Menu interativo 🟩
